@@ -1,0 +1,12 @@
+[
+    {
+        "nom": "Station A",
+        "latitude": 48.8566,
+        "longitude": 2.3522
+    },
+    {
+        "nom": "Station B",
+        "latitude": 48.8577,
+        "longitude": 2.3558
+    }
+]
